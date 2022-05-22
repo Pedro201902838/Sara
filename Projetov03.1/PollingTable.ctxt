@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=PollingTable
+comment0.text=\r\n\ A\ classe\ PollingTable\ representa\ uma\ mesa\ de\ voto.\r\n\r\n\ @author\ Grupo\ 4\ Turma\ 7\r\n\ @version\ 05/05/2022\r\n
+comment1.params=tableId\ parish\ tableNumber\ voters\ votes
+comment1.target=PollingTable(int,\ Parish,\ int,\ java.util.List,\ java.util.List)
+comment1.text=\r\n\ Construtor\ da\ classe\ PollingTable.\r\n\ Instancia\ uma\ nova\ mesa\ de\ voto.\r\n\ @param\ tableId\ -\ id\ da\ mesa\ de\ voto\r\n\ @param\ parish\ -\ freguesia\ onde\ a\ mesa\ de\ voto\ se\ encontra\r\n\ @param\ tableNumber\ -\ n\u00FAmero\ da\ mesa\ de\ voto\r\n\ @param\ voters\ -\ lista\ de\ votantes\r\n\ @param\ votes\ -\ lista\ de\ votos\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getTableId()
+comment3.params=
+comment3.target=Parish\ getParish()
+comment4.params=
+comment4.target=int\ getTableNumber()
+comment5.params=
+comment5.target=java.util.List\ getVoters()
+comment6.params=
+comment6.target=int\ getNumberOfVoters()
+comment7.params=
+comment7.target=java.util.List\ getVotes()
+comment8.params=
+comment8.target=int\ getNumberOfVotesTables()
+comment9.params=
+comment9.target=java.lang.String\ getVotingTime()
+comment9.text=\r\n\ Retorna\ o\ intervalo\ de\ tempo\ em\ que\ as\ urnas\ est\u00E3o\ abertas\ para\ votar.\r\n\ @return\ intervalo\ de\ tempo\ em\ forma\ de\ String\r\n
+numComments=11

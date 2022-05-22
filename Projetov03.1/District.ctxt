@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=District
+comment0.text=\r\n\ A\ classe\ District\ representa\ um\ distrito.\r\n\r\n\ @author\ Grupo\ 4\ Turma\ 7\r\n\ @version\ 04/05/2022\r\n
+comment1.params=districtName
+comment1.target=District(java.lang.String)
+comment1.text=\r\n\ Construtor\ da\ classe\ District.\r\n\ Instancia\ um\ novo\ distrito.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDistrictName()
+comment3.params=
+comment3.target=java.util.List\ getCounties()
+comment4.params=
+comment4.target=int\ getNumberOfCounties()
+comment5.params=county
+comment5.target=boolean\ addCounty(County)
+comment5.text=\r\n\ Adiciona\ um\ concelho\ \u00E0\ lista.\r\n\ @param\ county\ -\ o\ concelho\ a\ adicionar\ \u00E0\ lista\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment6.params=index
+comment6.target=boolean\ removeCounty(int)
+comment6.text=\r\n\ Remove\ um\ concelho\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ do\ concelho\ a\ remover\ da\ lista\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment7.params=index
+comment7.target=County\ getCounty(int)
+comment7.text=\r\n\ Retorna\ o\ concelho\ numa\ determinada\ posi\u00E7\u00E3o\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ do\ concelho\ pretendida\r\n\ @return\ county\ -\ concelho\ pretendida\r\n
+comment8.params=index\ county
+comment8.target=boolean\ setCounty(int,\ County)
+comment8.text=\r\n\ Altera\ o\ concelho\ numa\ determinada\ posi\u00E7\u00E3o\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ do\ concelho\ a\ alterar\r\n\ @param\ county\ -\ concelho\ a\ alterar\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

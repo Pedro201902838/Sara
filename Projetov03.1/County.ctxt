@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=County
+comment0.text=\r\n\ A\ classe\ County\ representa\ um\ concelho.\r\n\r\n\ @author\ Grupo\ 4\ Turma\ 7\r\n\ @version\ 04/05/2022\r\n
+comment1.params=countyName
+comment1.target=County(java.lang.String)
+comment1.text=\r\n\ Construtor\ da\ classe\ County.\r\n\ Instancia\ um\ novo\ concelho.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCountyName()
+comment3.params=
+comment3.target=java.util.List\ getParishes()
+comment4.params=
+comment4.target=int\ getNumberOfParishes()
+comment5.params=parish
+comment5.target=boolean\ addParish(Parish)
+comment5.text=\r\n\ Adiciona\ uma\ freguesia\ \u00E0\ lista.\r\n\ @param\ parish\ -\ a\ freguesia\ a\ adicionar\ \u00E0\ lista\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment6.params=index
+comment6.target=boolean\ removeParish(int)
+comment6.text=\r\n\ Remove\ uma\ freguesia\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ da\ freguesia\ a\ remover\ da\ lista\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment7.params=index
+comment7.target=Parish\ getParish(int)
+comment7.text=\r\n\ Retorna\ a\ freguesia\ numa\ determinada\ posi\u00E7\u00E3o\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ da\ freguesia\ pretendida\r\n\ @return\ parish\ -\ freguesia\ pretendida\r\n
+comment8.params=index\ parish
+comment8.target=boolean\ setParish(int,\ Parish)
+comment8.text=\r\n\ Altera\ a\ freguesia\ numa\ determinada\ posi\u00E7\u00E3o\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ da\ freguesia\ a\ alterar\r\n\ @param\ parish\ -\ freguesia\ a\ alterar\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

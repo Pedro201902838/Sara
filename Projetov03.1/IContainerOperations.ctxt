@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IContainerOperations
+comment0.text=\r\n\ A\ interface\ IContainerOperations\ guarda\ as\ opera\u00E7\u00F5es\ de\ qualquer\ lista\ contida\ na\ classe\ ContainerListArray.\r\n\r\n\ @author\ Grupo\ 4\ Turma\ 7\ -\ c\u00F3digo\ adaptado\ do\ c\u00F3digo\ exemplificado\ na\ aula\ TP\ do\ dia\ 11/05/2022\r\n\ @version\ 11/05/2022\r\n
+comment1.params=e
+comment1.target=boolean\ addElem(java.lang.Object)
+comment1.text=\r\n\ Adiciona\ um\ elemento\ \u00E0\ lista.\r\n\ @param\ e\ -\ elemento\ a\ adicionar\ \u00E0\ lista\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment2.params=index
+comment2.target=boolean\ removeElem(int)
+comment2.text=\r\n\ Remove\ um\ elemento\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ do\ elemento\ a\ remover\ da\ lista\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment3.params=index
+comment3.target=java.lang.Object\ getElem(int)
+comment3.text=\r\n\ Retorna\ o\ elemento\ numa\ determinada\ posi\u00E7\u00E3o\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ do\ elemento\ pretendido\r\n\ @return\ E\ -\ elemento\ pretendido\r\n
+comment4.params=index\ e
+comment4.target=boolean\ setElem(int,\ java.lang.Object)
+comment4.text=\r\n\ Altera\ o\ elemento\ numa\ determinada\ posi\u00E7\u00E3o\ da\ lista.\r\n\ @param\ index\ -\ \u00EDndice\ do\ elemento\ a\ alterar\r\n\ @param\ e\ -\ elemento\ a\ alterar\r\n\ @return\ sucesso\ ou\ insucesso\ da\ opera\u00E7\u00E3o\r\n
+comment5.params=
+comment5.target=boolean\ isListEmpty()
+comment5.text=\r\n\ Verifica\ se\ a\ lista\ est\u00E1\ vazia\ ou\ n\u00E3o.\r\n\ @return\ true\ se\ a\ lista\ est\u00E1\ vazia\ ou\ false\ caso\ contr\u00E1rio\r\n
+comment6.params=
+comment6.target=void\ showElemsInfo()
+comment6.text=\r\n\ Mostra\ a\ informa\u00E7\u00E3o\ sobre\ os\ elementos\ da\ lista.\r\n
+numComments=7
